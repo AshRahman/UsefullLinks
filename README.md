@@ -1,4 +1,4 @@
-# UsefullLins
+# UsefullLinks
 Various Links containing various usage
 
 https://mvtd.events.microsoft.com/ ------> Microsoft trainings
